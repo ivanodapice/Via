@@ -14,7 +14,9 @@
     <string name="action_night">Modalita Notturna</string>
     <string name="action_copy">Copia Collegamento</string>
     <string name="action_copy_domain">Copia Dominio</string>
+    <string name="action_copy_text">Copia Testo</string>
     <string name="action_image_off">Blocca Immagine</string>
+    <string name="action_tools">Strumenti</string>
     <string name="settings">Impostazioni</string>
     <string name="location">Geolocalizzazione</string>
     <string name="password">Salva Passwords</string>
@@ -40,7 +42,7 @@
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">Symbian</string>
-    <string name="agent_custom">Custom</string>
+    <string name="agent_custom">Personalizzato</string>
     <string name="title_search_engine">Motore di ricerca</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Vuoi scaricare questo file?</string>
@@ -52,11 +54,11 @@
     <string name="action_yes">OK</string>
     <string name="action_no">Annulla</string>
     <string name="title_text_size">Dimensione Testo</string>
-    <string name="size_largest">Massima</string>
+    <string name="size_largest">Grandissima</string>
     <string name="size_large">Grande</string>
     <string name="size_normal">Normale</string>
     <string name="size_small">Piccola</string>
-    <string name="size_smallest">Minima</string>
+    <string name="size_smallest">Piccolissima</string>
     <string name="hint_title">Titolo</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Cartella</string>
@@ -65,7 +67,7 @@
     <string name="action_incognito">Modalita Incognito</string>
     <string name="action_find">Cerca nella Pagina</string>
     <string name="download_pending">Inizio download\u2026</string>
-    <string name="cannot_download">Posso scaricare solo URLs \"http\" o \"https\".</string>
+    <string name="cannot_download">Posso scaricare solo URLs  \"http\" or \"https\" URLs.</string>
     <string name="download_no_sdcard_dlg_title">Nessuna SD card</string>
     <string name="download_no_sdcard_dlg_msg">Per scaricare il file è necessaria una memoria USB.</string>
     <string name="download_sdcard_busy_dlg_title">Memoria USB non disponibile</string>
@@ -89,9 +91,9 @@
     <string name="message_form_resubmission">Vuoi rimandare nuovamente i dati?</string>
     <string name="message_location">\nVorrebbe sapere la tua posizione</string>
     <string name="action_allow">Permetti</string>
-    <string name="action_dont_allow">Rifiuta</string>
+    <string name="action_dont_allow">Nega</string>
     <string name="title_sign_in">Accedi</string>
-    <string name="hint_username">Utente</string>
+    <string name="hint_username">Accedi</string>
     <string name="hint_password">Password</string>
     <string name="untitled">Senza titolo</string>
     <string name="image_auto">Mostra immagini se in wifi</string>
@@ -130,7 +132,7 @@
     <string name="operation_reload">Ricarica</string>
     <string name="operation_top">Scorri all\'inizio</string>
     <string name="operation_bottom">Scorri alla fine</string>
-    <string name="operation_input">Inserisci url</string>
+    <string name="operation_input">Inserisci URL</string>
     <string name="operation_newtab">Nuova scheda</string>
     <string name="operation_addbookmark">Aggiungi Segnalibro</string>
     <string name="operation_openbookmark">Apri Segnalibro</string>
@@ -154,7 +156,7 @@
     <string name="action_source">Vedi sorgenti</string>
     <string name="action_translate">Traduci</string>
     <string name="title_edit_folder">Modifica Cartella</string>
-    <string name="msg_delete_folder">Cancelli questa cartella?</string>
+    <string name="msg_delete_folder">Cancellare questa cartella?</string>
     <string name="desc_suggestion">suggerimenti</string>
     <string name="desc_search">trova nella pagina</string>
     <string name="desc_reload">ricarica</string>
@@ -165,10 +167,10 @@
     <string name="desc_menu">menu</string>
     <string name="desc_filedic">file</string>
     <string name="desc_other">altro</string>
-    <string name="msg_setgoogle">Imposto Google come motore di ricerca?</string>
+    <string name="msg_setgoogle">Impostare Google come motore di ricerca?</string>
     <string name="action_mark">Segna come Annuncio</string>
-    <string name="settings_block">Adblock</string>
-    <string name="dialog_confirm_block">Vuoi segnare questo elemento come Annuncio?</string>
+    <string name="settings_block">AdBlock</string>
+    <string name="dialog_confirm_block">Vuoi segnare questo elemento come un Annuncio?</string>
     <string name="do_not_track">Non tracciare</string>
     <string name="get_more_rules">Ottieni altre regole</string>
     <string name="add_rule">Aggiungi Regola</string>
@@ -181,33 +183,34 @@
     <string name="user">Accedi/Registrati</string>
     <string name="user_syns">Sincronizza</string>
     <string name="user_update">Carica</string>
-    <string name="log_in_success">Accesso consentito.</string>
+    <string name="log_in_success">Accesso avvenuto con successo.</string>
     <string name="wrong_psw">Password errata.</string>
-    <string name="sign_up_success">Registrazione effettuata.</string>
+    <string name="sign_up_success">Registrazione avvenuta con successo.</string>
     <string name="code_500">Servizio non disponibile.</string>
     <string name="syns_success">Sincronizzazione completata</string>
     <string name="upload_success">Caricamento completato</string>
-    <string name="log_out">Esci?</string>
-    <string name="crash_info">Opss :( </string>
+    <string name="log_out">Uscire?</string>
+    <string name="crash_info">Opss qualcosa e\' andato storto :( </string>
     <string name="crash_restart">Riavvia applicazione</string>
     <string name="crash_close">Chiudi applicazione</string>
     <string name="crash_upload">Invia report</string>
     <string name="upload_completed">Invio completato :)</string>
-    <string name="ui_mode">Interfaccia</string>
+    <string name="ui_mode">Modalità Interfaccia</string>
     <string name="ui_auto">Auto</string>
     <string name="open_or_search">Apri/Cerca</string>
     <string name="settings_addons">Estensioni</string>
-    <string name="addon_download">Download Manager</string>
-    <string name="addon_qr_code_scan">Qr Code Scan</string>
-    <string name="install_addon">Scarica e installa l\'estensione? Questa estensione verrà attivata in seguito all\'installazione.</string>
-    <string name="quick_back">Indietro senza Ricaricare</string>
+    <string name="addon_download">Gestore dei downloads</string>
+    <string name="addon_qr_code_scan">Scannerizza codice QR</string>
+    <string name="install_addon">Scarica e installa l\'estensione? Questa estensione funzionerà dopo essere stata installata.</string>
+    <string name="quick_back">Andare Indietro senza Ricaricare</string>
     <string name="open_with">Apri con&#8230;</string>
     <string name="download_completed">Download completato</string>
-    <string name="toast_fullscreen_off">Esci da modo Full-Screen</string>
-
+    <string name="toast_fullscreen_off">Esci da modalità Full-Screen.</string>
+    
+    
     <string name="clear_data">Cancella Dati</string>
     <string name="data_cache">Cache</string>
-    <string name="data_form_data">Dati moduli</string>
+    <string name="data_form_data">Modulo dati</string>
     <string name="data_history">Cronologia</string>
     <string name="data_storage">Dati siti Web</string>
     <string name="data_cookies">Cookies</string>
@@ -246,7 +249,7 @@
 
     <string name="screenshot_hint">Ci possono essere problemi di compatibilità nel salvare un istantanea della pagina con Anroid 5.0 e successivi. Stiamo cercando soluzioni alternative.</string>
 
-    <string name="conn_timeout">Connessione fallita</string>
+    <string name="conn_timeout">Connessione fallita out</string>
 
     <string name="already_default">E\' già impostato come default</string>
 
@@ -273,19 +276,19 @@
     <string name="fullscreen_1">Scorri per mostrare/nascondere</string>
     <string name="fullscreen_2">Clicca per mostrare/nascondere</string>
     <string name="settings_script">Script</string>
-    <string name="get_more_script">Ottieni Script</string>
+    <string name="get_more_script">Ottieni piu\' Script</string>
     <string name="add_script">Agg. Script</string>
     <string name="script_url">dominio o * (* significa tutti)</string>
-    <string name="script_code">codice (javascript)</string>
+    <string name="script_code">codice (Javascript)</string>
     <string name="clear_all_script">Cancella Tutti gli Script</string>
     <string name="toast_copy_domain_successful">Copia Dominio riuscita</string>
-    <string name="go_together">Collaborar</string>
+    <string name="go_together">Collaborare</string>
     <string name="help_us_translate">Aiutaci a tradurre</string>
-    <string name="confirm_to_leave">Vuoi uscire?</string>
+    <string name="confirm_to_leave">Vuoi uscire</string>
     <string name="leave">Esci</string>
     <string name="stay">Resta</string>
     <string name="skin_logo">Logo</string>
-    <string name="skin_bg">Background</string>
+    <string name="skin_bg">Sfondo</string>
     <string name="skin_style">Stile</string>
     <string name="skin_settings">Impostazioni</string>
     <string name="set_it_as_homepage">Imposta come homepage?</string>
@@ -294,10 +297,10 @@
     <string name="crash_hint">Ci scusiamo per l\'inconveniente.</string>
     <string name="upload_hint">Ci scusiamo per l\'inconveniente. Ma puoi inviare un rapporto sul crash affinche possiamo migliorare. Invio ora?</string>
     <string name="glean">Glean</string>
-    <string name="contact_us">Contattaci</string>
+    <string name="contact_us">Contattaci us</string>
     <string name="official_website">Sito Web Ufficiale</string>
     <string name="current_language">Lingua selezionata</string>
-    <string name="download_manager">Download manager</string>
+    <string name="download_manager">Gestione Downloads</string>
     <string name="background_opacity">Trasparenza dello sfondo</string>
     <string name="action_pic_mode">Modalità Immagine</string>
     <string name="block_it_temporarily">Blocca temporaneamente</string>
@@ -306,6 +309,7 @@
     <string name="action_open_in_background">Apri in Background</string>
     <string name="cannot_work">Posso farlo solo con URLs \"http\" o \"https\".</string>
     <string name="action_fullscreen">Schermo intero</string>
+    <string name="action_ua">User Agent</string>
     <string name="settings_general">Generale</string>
     <string name="no_bookmark">Nessun segnalibro~</string>
     <string name="import_or_export_bookmarks">Importa/Esporta segnalibri</string>
@@ -331,5 +335,53 @@
     <string name="action_close_all_tabs">Chiudi tutte le schede</string>
     <string name="skin_hide_search_part">Nascondi la Ricerca</string>
     <string name="action_more">Di più</string>
-
-</resources>
+    <string name="action_exit">Esci</string>
+    <string name="set_as_default">Impostarlo come Browser Predefinito?</string>
+    <string name="exit_incognito_title">Esci dalla Navigazione in Incognito</string>
+    <string name="exit_incognito_dialog">Vuoi chiudere tutte le tabelle prima di disabilitare la \"Modalità Incognito\"?</string>
+    <string name="file_size">Grandezza File</string>
+    <string name="update">Aggiornamento</string>
+    <string name="update_msg">C\'e\' una nuova versione disponibile. Vuoi aggiornare adesso?</string>
+    <string name="ignore">Ignora</string>
+    <string name="share_script">Script per %1$s, copia questo messaggio e apri via per importare lo script. viascript{%2$s}</string>
+    <string name="share_online_script">Script per %1$s, copia questo messaggio e apri il collegamento %2$s con via per intallare lo script.</string>
+    <string name="import_script">Importa lo script per %1$s dagli appunti?\nAttenzione: Lo script potrebbe non essere sicuro. Per favorre, controlla se sia sicuro.\nScript:\n</string>
+    <string name="share_rule">Il regolamento che blocca gli annunci di %1$s, copia questo messaggio e apri via per importare il regolamento. viarule{%2$s}</string>
+    <string name="import_rule">Importare il regolamento che blocca gli annunci di %1$s dagli appunti?</string>
+    <string name="share_url">Questo e\' un httpUrl segreto, copia questo messaggio e apri via per visualizzarlo. viaurl{%1$s}</string>
+    <string name="import_url">Aprire il collegamento dagli appunti?\nCollegamento: %1$s</string>
+    <string name="import_successful">Importazione avvenuta con successo</string>
+    <string name="all_sites">Tutti i siti</string>
+    <string name="easter_egg">Easter Egg(AD)</string>
+    <string name="action_click_to_view">Clicca per visualiazzare</string>
+    <string name="join_us">Unisciti a noi</string>
+    <string name="share_explanation">Condivisione Crittografica: puoi visualizzarla solo con via. \nCondivisione: condividi il collegamento della seguente pagina.</string>
+    <string name="action_secret_share">Condivisione Crittografica</string>
+    <string name="action_normal_share">Condividi</string>
+    <string name="res_sniffer">Sniffer delle Risorse</string>
+    <string name="search_by_pic">Cerca per Immagine</string>
+    <string name="resource_sniffer">Sniffer delle Risorse</string>
+    <string name="res_log_hint">Fai clic sulla voce per l'anteprima, click prolungato sulla voce per scaricare o per fare altro.</string>
+    <string name="no_resource">La pagina non ha risorse.</string>
+    <string name="no_network_log">La pagina non ha un registro di rete.</string>
+    <string name="resource_sniffer_hint">\nPS: e\' piu\' facile da ottenere quando e\' in riproduzione un video o un brano musicale.</string>
+    <string name="action_download">Download</string>
+    <string name="action_play_with_mxplayer">Riproduci con MXPlayer</string>
+    <string name="empty_username_info">Per favore inserisci il tuo nome utente.</string>
+    <string name="empty_password_info">Per favore inserisci la tua password.</string>
+    <string name="offline_page_hint">Le seguenti sono pagine disponibili offline. Puoi visualizzarle anche senza una connessione internet.</string>
+    <string name="history_page_hint_when_incognito">Sei andato in modalità incognito. Non verrà registrato nulla nella cronologia.</string>
+    <string name="action_preview">Anteprima</string>
+    <string name="action_page_info">Informazioni della Pagina</string>
+    <string name="page_info_title">Titolo:</string>
+    <string name="page_info_url">URL della Pagina:</string>
+    <string name="page_info_link">URL del Collegamento:</string>
+    <string name="no_network">Non ci sono connessioni di reti disponibili</string>
+    <string name="action_open_with">Apri con l'app correlata</string>
+    <string name="title_app_chooser">Selettore dell\'APP</string>
+    <string name="sort_bookmarks_hint">Per favore trascina e rilascia l\'icona del Segnalibro per ordinare la lista</string>
+    <string name="clear_data_on_exit">Pulisci i Dati all\'Uscita</string>
+    <string name="action_add_to_homepage">Aggiungi a chiamata rapida</string>
+    <string name="added_favorite_hint">Aggiunto con successo a chiamata rapida</string>
+    <string name="title_edit_favorite">Modifica Preferiti</string>
+</resources> 
